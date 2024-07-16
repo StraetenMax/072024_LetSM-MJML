@@ -1,0 +1,116 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Let d'information SM - JUILLET 2024</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+      
+    </mj-raw>
+    <mj-attributes>
+      <mj-all Roboto="Roboto" Arial="Arial" Helvetica="Helvetica" sans-serif="sans-serif"/>
+      <mj-image padding="0" border="none"/>
+      <mj-button background-color="#1372b8" font-size="14px" line-height="20px" font-weight="400" text-transform="uppercase" inner-padding="5px 5px" border-radius="2px"/>
+    </mj-attributes>
+    <mj-breakpoint width="500px"></mj-breakpoint>
+    <mj-style>
+      .hover:hover td, .hover:hover a{
+          background-color: #343f92 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#edf2f7">
+    <mj-section full-width="full-width" background-color="#1372b8" padding-bottom="0">
+      <mj-column>
+        <mj-image padding-left="25px" padding-right="25px" width="180px" align="left" src="https://i.ibb.co/HtG61w3/ECOSUPSante.png" alt="Logo Ecosup Santé"/>  
+        <mj-text align="left" font-size="16px" line-height="20px" font-weight="900" text-transform="uppercase" color="#2D3748">Newsletter Ecosup Santé | <span style="font-weight:300;color:#fefefe">Juillet 2024</span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#1372b8" padding="0">
+      <mj-column width="100%">
+        <mj-image src="https://i.ibb.co/s6Q5Q6K/AEPEimg.jpg" alt="Vous souhaitez entamer une reconversion professionnelle et vous former aux métiers de la petite enfance ?"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="0">
+      <mj-column width="500px">
+        <mj-text align="center" font-size="26px" font-weight="700" line-height="30px" color="#2D3748">Notre école ecosup sante située à Tourcoing près de Lille vous propose deux formations à intégrer dès la rentrée prochaine !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#dedede" border-radius="20px">
+        <mj-text>Formation Initiale ou Continue</mj-text>
+        <mj-group width="100%">
+          <mj-column width="25%">
+            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
+          </mj-column>
+          <mj-column width="75%">
+            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Personnes agées de 17 ans minimum souhaitant faire une formation courte ou ne rentrant pas dans les critères de l'alternance</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="25%">
+            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
+          </mj-column>
+          <mj-column width="75%">
+            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Formation payante avec possibilité de financement ou co-financement</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="25%">
+            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
+          </mj-column>
+          <mj-column width="75%">
+            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Indemnisation possible par l'organisme de financement</mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="25%">
+            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
+          </mj-column>
+          <mj-column width="75%">
+            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Périodes de stage en entreprises au cours de votre cursus </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-column>
+          <mj-text> </mj-text>
+        </mj-column>
+      </mj-column>
+      <mj-column></mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0">
+      <mj-column width="240px">
+        <mj-image width="120px" alt="logo Ecosup-Campus" src="https://img.mailinblue.com/3403292/images/content_library/original/660d606e373b24d832a39719.png"/>
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>17 place Charles et Albert Roussel</div>
+          <div style="text-transform:uppercase">tourcoing</div>
+          <div><a style="color:#2D3748;text-decoration:none;font-weight:700;" href="tel:0320700606">Tél. 03.20.07.06.06</a></div>
+          <div><a style="color:#2D3748;text-decoration:none;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></div>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="380px">
+        <mj-social inner-padding="0 15px" icon-size="25px" mode="horizontal">
+          <mj-social-element alt="icon Linkedin" src="https://img.mailinblue.com/3403292/images/content_library/original/660d6047d0d41f3120a8cdec.png" href="https://fr.linkedin.com/company/ecosup-campus"></mj-social-element>
+          <mj-social-element alt="icon Facebook" src="https://img.mailinblue.com/3403292/images/content_library/original/660d604fd0d41f3120a8cdf5.png" href="https://www.facebook.com/EcosupCamp"></mj-social-element>
+          <mj-social-element alt="icon Instagram" src="https://img.mailinblue.com/3403292/images/content_library/original/660d605a373b24d832a3970d.png" href="https://www.instagram.com/ecosup.campus"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="380px">
+        <mj-text font-size="12px" line-height="16px" font-weight="400" color="#2D3748" align="center" padding-top="0" padding-bottom="0">
+          <div>Pour être sûr(e) de recevoir nos communications, ajoutez <a style="text-decoration:none;color:#2D3748;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a> dans votre carnet d'adresses.</div>
+          <div><a style="text-decoration:none;color:#343f92;" href="{{ mirror }}">Afficher dans votre navigateur web.</a></div>
+          <div><a style="text-decoration:none;color:#343f92;text-transform:uppercase" href="{{ unsubscribe }}">se désinscrire.</a></div>
+        </mj-text>
+        <mj-spacer height="30px"></mj-spacer>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

@@ -1,0 +1,38 @@
+mjml
+    //- Head
+    mj-head
+        mj-title Let d'information SM - JUILLET 2024
+        mj-font(name='Roboto' href='https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap')/
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+
+        mj-attributes
+            mj-all(Roboto, Arial, Helvetica, sans-serif)/
+            mj-image(padding='0' border='none')/
+            mj-button(background-color='#1372b8' font-size='14px' line-height='20px' font-weight='400' text-transform='uppercase' inner-padding='5px 5px' border-radius='2px')/
+        mj-breakpoint(width='500px')
+        mj-style.
+            .hover:hover td, .hover:hover a{
+                background-color: #343f92 !important;
+            }
+    //- Body
+    mj-body(background-color='#edf2f7')
+        //- logo
+        block logo
+            include ../includes/_logo
+        //- contenu
+        block content
+        //- footer adresse
+        block adresse
+            include ../includes/_adresse
+        //- footer réseaux sociaux
+        block resociaux
+            include ../includes/_resociaux
+        //- footer législation
+        block regl
+            include ../includes/_regl
