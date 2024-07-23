@@ -2,7 +2,6 @@
 <mjml>
   <mj-head>
     <mj-title>Let d'information SM - JUILLET 2024</mj-title>
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"/>
     <mj-raw>
       <meta name="color-scheme" content="light"/>
       <meta name="supported-color-schemes" content="light"/>
@@ -10,77 +9,58 @@
       <meta name="format-detection" content="date=no"/>
       <meta name="format-detection" content="address=no"/>
       <meta name="format-detection" content="email=no"/>
-      
     </mj-raw>
     <mj-attributes>
-      <mj-all Roboto="Roboto" Arial="Arial" Helvetica="Helvetica" sans-serif="sans-serif"/>
+      <mj-all Arial="Arial" Helvetica="Helvetica" sans-serif="sans-serif"/>
       <mj-image padding="0" border="none"/>
-      <mj-button background-color="#1372b8" font-size="14px" line-height="20px" font-weight="400" text-transform="uppercase" inner-padding="5px 5px" border-radius="2px"/>
     </mj-attributes>
-    <mj-breakpoint width="500px"></mj-breakpoint>
-    <mj-style>
-      .hover:hover td, .hover:hover a{
-          background-color: #343f92 !important;
-      }
-    </mj-style>
   </mj-head>
   <mj-body background-color="#edf2f7">
-    <mj-section full-width="full-width" background-color="#1372b8" padding-bottom="0">
+    <mj-section full-width="full-width" background-color="#124ea8" padding-bottom="0">
       <mj-column>
         <mj-image padding-left="25px" padding-right="25px" width="180px" align="left" src="https://i.ibb.co/HtG61w3/ECOSUPSante.png" alt="Logo Ecosup Santé"/>  
-        <mj-text align="left" font-size="16px" line-height="20px" font-weight="900" text-transform="uppercase" color="#2D3748">Newsletter Ecosup Santé | <span style="font-weight:300;color:#fefefe">Juillet 2024</span></mj-text>
+        <mj-text align="left" font-size="16px" line-height="20px" font-weight="900" text-transform="uppercase" color="#0cc0df">Newsletter Ecosup Santé | <span style="font-weight:300;color:#fefefe">Août 2024</span></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section full-width="full-width" background-color="#1372b8" padding="0">
-      <mj-column width="100%">
-        <mj-image src="https://i.ibb.co/s6Q5Q6K/AEPEimg.jpg" alt="Vous souhaitez entamer une reconversion professionnelle et vous former aux métiers de la petite enfance ?"></mj-image>
+    <mj-section full-width="full-width" background-color="#124ea8" padding="0" background-url="https://i.ibb.co/ZH5fL3x/img-SMLet072024.jpg" background-repeat="no-repeat">
+      <mj-column width="100%" vertical-align="bottom" padding-top="200px">
+        <mj-text align="left" font-size="30px" font-weight="700" line-height="120%" color="#ffffff">Vous souhaitez devenir secrétaire médical(e)</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-bottom="0">
-      <mj-column width="500px">
-        <mj-text align="center" font-size="26px" font-weight="700" line-height="30px" color="#2D3748">Notre école ecosup sante située à Tourcoing près de Lille vous propose deux formations à intégrer dès la rentrée prochaine !</mj-text>
+    <mj-section background-color="#ffffff" padding="0">
+      <mj-column width="90%">
+        <mj-text align="center" font-size="34px" font-weight="400" line-height="120%" color="#124ea8">Notre école <span style="color:#0cc0df;text-transform:uppercase;font-weight:900;">ecosup santé</span> située à Tourcoing près de Lille vous propose <span style="color:#0cc0df;font-weight:900">deux formations</span> à intégrer <span style="font-weight:900">dès la rentrée prochaine !</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
-      <mj-column background-color="#dedede" border-radius="20px">
-        <mj-text>Formation Initiale ou Continue</mj-text>
-        <mj-group width="100%">
-          <mj-column width="25%">
-            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
-          </mj-column>
-          <mj-column width="75%">
-            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Personnes agées de 17 ans minimum souhaitant faire une formation courte ou ne rentrant pas dans les critères de l'alternance</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="25%">
-            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
-          </mj-column>
-          <mj-column width="75%">
-            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Formation payante avec possibilité de financement ou co-financement</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="25%">
-            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
-          </mj-column>
-          <mj-column width="75%">
-            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Indemnisation possible par l'organisme de financement</mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="25%">
-            <mj-image src="https://imageplaceholder.net/25x25"></mj-image>
-          </mj-column>
-          <mj-column width="75%">
-            <mj-text padding="0 10px 0 0" font-size="14px" line-height="18px">Périodes de stage en entreprises au cours de votre cursus </mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-column>
-          <mj-text> </mj-text>
-        </mj-column>
+      <mj-column width="50%" padding="10px">
+        <mj-image align="center" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/KzsQp6W/arg-Continue-2.gif" href="https://www.moncompteformation.gouv.fr/" alt="les atouts de la formation Secrétaire médical initiale ou continue"/>
+        <mj-image align="center" padding-top="10px" width="35px" src="https://i.ibb.co/8xtLKPp/calendar.png"></mj-image>
+        <mj-text align="center" font-size="14px" font-weight="700" line-height="120%" color="#124ea8">Rentrée le 18 novembre 2024 !</mj-text>
       </mj-column>
-      <mj-column></mj-column>
+      <mj-column width="50%" padding="10px">
+        <mj-image align="center" fluid-on-mobile="true" width="300px" src="https://i.ibb.co/bRW5PF3/arg-Apprentissage-2.gif" alt="les atouts de formation secrétaire médical initiale ou continue"/>
+        <mj-image align="center" padding-top="10px" width="35px" src="https://i.ibb.co/8xtLKPp/calendar.png"></mj-image>
+        <mj-text align="center" font-size="14px" font-weight="700" line-height="120%" color="#124ea8">Rentrée le 5 octobre 2024 !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-top="0">
+      <mj-group width="480px">
+        <mj-column width="20%">
+          <mj-image align="right" padding="10px 5px 10px 25px" width="50px" src="https://i.ibb.co/5TCDWpS/notepad.png"></mj-image>
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text padding-left="5px" font-size="16px" font-weight="300" line-height="120%" color="#124ea8"><a style="font-weight:700;color:#0cc0df" href="https://docs.google.com/forms/d/e/1FAIpQLSeb1y_6_zczktTypxfCVxafYdtk2xICmQqbz3nVIL55_Q3N5g/viewform">Inscrivez-vous dès maintenant</a> à une <span style="font-weight:700">réunion collective</span> où vous aurez l'occasion de découvrir l'ensemble du <span style="font-weight:700">programme</span>, rencontrer la <span style="font-weight:700">responsable pédagogique</span> et <span style="font-weight:700">visiter l'école</span> !</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="480px">
+        <mj-column width="20%">
+          <mj-image align="right" padding="10px 5px 10px 25px" width="50px" src="https://i.ibb.co/JqRCY3T/phone.png"></mj-image>
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text padding-left="5px" font-size="16px" font-weight="300" line-height="120%" color="#124ea8"><span style="font-weight:700;">Contactez-nous au</span> <a style="font-weight:700;color:#0cc0df" href="tel:0320700606">03.20.70.06.06</a> pour toutes questions sur <span style="font-weight:700">la formation, le financement, l'école...</span> Nous sommes là pour vous répondre !</mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section padding-bottom="0">
       <mj-column width="240px">
